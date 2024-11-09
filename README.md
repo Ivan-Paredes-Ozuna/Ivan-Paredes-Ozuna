@@ -10,9 +10,13 @@ About Me
 🚀 Interested in full-stack development, artificial intelligence, and cybersecurity.
 
 Skills
+
 Languages: JavaScript, Python, C, Java
+
 Frontend: HTML, CSS, React (learning)
+
 Backend: Node.js, Express (learning), Django
+
 Databases: PostgreSQL
 
 Goals
